@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Pedro Leonardo
 #### Welcome to my simple to-do list
 
-![](todo.jpg)
+![](todoimg.jpg)
 
 This is a simple todo list that allows you to keep track of the things you need to do through the day. You are able to add and also clear the list when your done.
 
